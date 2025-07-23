@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f01"
+    },
+    "firstName": "Arlene",
+    "lastName": "Riona",
+    "email": "arlene@yahoo.com",
+    "phone": "56788493"
+  },
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f02"
+    },
+    "firstName": "James",
+    "lastName": "Oliver",
+    "email": "oliver@yahoo.com",
+    "phone": "80988491"
+  },
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f03"
+    },
+    "firstName": "April",
+    "lastName": "Cook",
+    "email": "cook123@outlook.com",
+    "phone": "77780091"
+  }
+]

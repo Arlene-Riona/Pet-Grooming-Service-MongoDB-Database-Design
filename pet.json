@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f04"
+    },
+    "name": "Shelly",
+    "breed": "French Bulldog",
+    "specialNeed": "Joint Issues",
+    "microchipId": 1,
+    "customer": {
+      "$oid": "64a986022e39eb32f0216f01"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f05"
+    },
+    "name": "Manderian",
+    "breed": "Golden Retriever",
+    "specialNeed": "Hypoallergenic",
+    "microchipId": 2,
+    "customer": {
+      "$oid": "64a986022e39eb32f0216f01"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f06"
+    },
+    "name": "Oblivion",
+    "breed": "Poodle",
+    "specialNeed": "Joint Issues",
+    "microchipId": 3,
+    "customer": {
+      "$oid": "64a986022e39eb32f0216f02"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f07"
+    },
+    "name": "Darcie",
+    "breed": "Bulldog",
+    "specialNeed": "Weight Management",
+    "microchipId": 4,
+    "customer": {
+      "$oid": "64a986022e39eb32f0216f02"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f08"
+    },
+    "name": "Leo",
+    "breed": "Siamese",
+    "specialNeed": "Exotic Diet",
+    "microchipId": 5,
+    "customer": {
+      "$oid": "64a986022e39eb32f0216f03"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a986022e39eb32f0216f09"
+    },
+    "name": "Ruby",
+    "breed": "Bengal Cat",
+    "specialNeed": "Exotic Diet",
+    "microchipId": 6,
+    "customer": {
+      "$oid": "64a986022e39eb32f0216f03"
+    }
+  }
+]

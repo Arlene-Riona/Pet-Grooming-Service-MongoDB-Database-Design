@@ -1,0 +1,42 @@
+[
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f10"
+        },
+        "description": "basic grooming (bath, brush, nail trim)",
+        "price": 30.0,
+        "expectedDuration": 60
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f11"
+        },
+        "description": "full grooming (haircut, bath, nail trim, ear cleaning)",
+        "price": 50.0,
+        "expectedDuration": 90
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f12"
+        },
+        "description": "obedience training session",
+        "price": 150.0,
+        "expectedDuration": 120
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f13"
+        },
+        "description": "veterinary check-up",
+        "price": 40.0,
+        "expectedDuration": 45
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f14"
+        },
+        "description": "teeth cleaning for pets",
+        "price": 45.0,
+        "expectedDuration": 60
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f15"
+        },
+        "title": "Loyalty Discount",
+        "percentage": 15,
+        "startDate": "2025-01-01",
+        "endDate": "2025-10-10",
+        "minimumSpending": 50.00
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f16"
+        },
+        "title": "Summer Sale",
+        "percentage": 25,
+        "startDate": "2025-01-15",
+        "endDate": "2025-06-30",
+        "minimumSpending": 40.00
+    }
+]

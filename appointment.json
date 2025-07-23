@@ -1,0 +1,470 @@
+[
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f25"
+        },
+        "date": "2025-03-01",
+        "duration": 180,
+        "status": "completed",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f11"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f12"
+                }
+            }
+        ],
+        "payment": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f17"
+            },
+            "paymentDate": "2025-03-1",
+            "amount": 180.00,
+            "paymentMethod": "visa",
+            "promotion": {
+                "$oid": "64a986022e39eb32f0216f15"
+            }
+        },
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f04"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f22"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f26"
+        },
+        "date": "2025-03-11",
+        "duration": 60,
+        "status": "completed",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f13"
+                }
+            }
+        ],
+        "payment": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f18"
+            },
+            "paymentDate": "2025-03-11",
+            "amount": 150.00,
+            "paymentMethod": "visa",
+            "promotion": {
+                "$oid": "64a986022e39eb32f0216f15"
+            }
+        },
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f04"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f23"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f27"
+        },
+        "date": "2025-03-15",
+        "duration": 160,
+        "status": "completed",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f13"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f11"
+                }
+            }
+        ],
+        "payment": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f19"
+            },
+            "paymentDate": "2025-03-15",
+            "amount": 70.00,
+            "paymentMethod": "visa",
+            "promotion": {
+                "$oid": "64a986022e39eb32f0216f16"
+            }
+        },
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f05"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f23"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f28"
+        },
+        "date": "2025-03-16",
+        "duration": 50,
+        "status": "completed",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f12"
+                }
+            }
+        ],
+        "payment": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f20"
+            },
+            "paymentDate": "2025-03-16",
+            "amount": 30.00,
+            "paymentMethod": "visa",
+            "promotion": null
+        },
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f05"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f22"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f29"
+        },
+        "date": "2025-03-17",
+        "duration": 100,
+        "status": "completed",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f11"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            }
+        ],
+        "payment": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f21"
+            },
+            "paymentDate": "2025-03-31",
+            "amount": 90.00,
+            "paymentMethod": "visa",
+            "promotion": null
+        },
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f06"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f23"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f30"
+        },
+        "date": "2025-05-17",
+        "duration": 60,
+        "status": "scheduled",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f13"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            }
+        ],
+        "payment": null,
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f06"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f24"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f31"
+        },
+        "date": "2025-05-18",
+        "duration": 80,
+        "status": "scheduled",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            }
+        ],
+        "payment": null,
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f07"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f24"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f32"
+        },
+        "date": "2025-05-19",
+        "duration": 80,
+        "status": "scheduled",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            }
+        ],
+        "payment": null,
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f07"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f23"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f33"
+        },
+        "date": "2025-05-20",
+        "duration": 90,
+        "status": "scheduled",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f13"
+                }
+            }
+        ],
+        "payment": null,
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f08"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f23"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f35"
+        },
+        "date": "2025-05-22",
+        "duration": 190,
+        "status": "scheduled",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f13"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f12"
+                }
+            }
+        ],
+        "payment": null,
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f09"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f22"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f36"
+        },
+        "date": "2025-05-23",
+        "duration": 190,
+        "status": "scheduled",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f13"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f12"
+                }
+            }
+        ],
+        "payment": null,
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f09"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f24"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f37"
+        },
+        "date": "2025-05-24",
+        "duration": 80,
+        "status": "scheduled",
+        "service": [
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f10"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f14"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "64a986022e39eb32f0216f13"
+                }
+            }
+        ],
+        "payment": null,
+        "pet": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f08"
+            }
+        },
+        "groomer": {
+            "_id": {
+                "$oid": "64a986022e39eb32f0216f24"
+            }
+        }
+    }
+]

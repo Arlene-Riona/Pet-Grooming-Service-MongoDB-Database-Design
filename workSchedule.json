@@ -1,0 +1,58 @@
+[
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f25"
+        },
+        "day": "Sunday",
+        "startTime": "8am",
+        "endTime": "1pm"
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f26"
+        },
+        "day": "Sunday",
+        "startTime": "2pm",
+        "endTime": "10pm"
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f27"
+        },
+        "day": "Monday",
+        "startTime": "8am",
+        "endTime": "1pm"
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f28"
+        },
+        "day": "Monday",
+        "startTime": "2pm",
+        "endTime": "10pm"
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f29"
+        },
+        "day": "Wednesday",
+        "startTime": "8am",
+        "endTime": "1pm"
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f30"
+        },
+        "day": "Thursday",
+        "startTime": "8am",
+        "endTime": "1pm"
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f31"
+        },
+        "day": "Thursday",
+        "startTime": "4pm",
+        "endTime": "11pm"
+    }
+]

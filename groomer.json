@@ -1,0 +1,74 @@
+[
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f22"
+        },
+        "name": "Mary Gorden",
+        "email": "mary345@gmail.com",
+        "phone": "55563320",
+        "schedule": [
+            {
+                "$oid": "64a986022e39eb32f0216f25"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f26"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f27"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f30"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f23"
+        },
+        "name": "Auston Silvers",
+        "email": "silverauston@gmail.com",
+        "phone": "43563320",
+        "schedule": [
+            {
+                "$oid": "64a986022e39eb32f0216f25"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f26"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f27"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f30"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64a986022e39eb32f0216f24"
+        },
+        "name": "Kelly Pennrin",
+        "email": "kelly123penny@gmail.com",
+        "phone": "90873333",
+        "schedule": [
+            {
+                "$oid": "64a986022e39eb32f0216f25"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f26"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f27"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f29"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f30"
+            },
+            {
+                "$oid": "64a986022e39eb32f0216f31"
+            }
+        ]
+    }
+]
